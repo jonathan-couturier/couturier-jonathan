@@ -15,3 +15,16 @@ acquis ces connaissances et ces compétences. La dernière partie concerneras me
 année dans le module de programmation structurée en Java.
 
 
+
+#Le Java dans mon cursus scolaire et en entreprise :
+
+
+
+
+
+#Analyse des mes échecs et de mes lacunes en première année en Java :
+
+
+
+#CONCLUSION :
+
