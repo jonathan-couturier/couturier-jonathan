@@ -6,7 +6,8 @@ Projet de rattrapage du module de Programmation structurée en Java
 
 
 
-Ce rapport à pour but de valider mon module de programmation structurée en Java. En effet, suite à des lacunes rencontrées lors des examens passé en premier année nous devons rédiger un rapport afin de valider ce module.
+Ce rapport à pour but de valider mon module de programmation structurée en Java. En effet, suite à des lacunes rencontrées lors des examens passé en premier année nous devons rédiger un rapport afin de valider ce module qui me permettra de
+par la même occasion de valider ma première année du cycle ingénieur.
 Ce rapport devra contenir dix mille mots synthétisant mes connaissances et mes compétences mais 
 aussi mes lacunes. Pour répondre au cahier des charges, ce rapport se composera de deux parties distinctes. 
 Dans un premier temps nous verrons l'importance de mes connaissances et compétences dans mon cursus scolaire et dans 
