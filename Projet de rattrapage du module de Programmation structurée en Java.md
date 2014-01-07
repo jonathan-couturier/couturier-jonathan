@@ -27,7 +27,14 @@ Voici ce que cela donnerai si nous devions le coder en Java.
                   }          
 ```
       
-N'oublions pas de plus que la programmation orientée est dirigée par trois fondamentaux qu'il convient de toujours garder à l'esprit : encapsulation, héritage et polymorphisme.
+N'oublions pas de plus que la programmation orientée est dirigée par trois fondamentaux qu'il convient de toujours garder à l'esprit : encapsulation, héritage et polymorphisme. Tout comme pour l'objet et la classe je vais donner une définition simple de ces trois fondamentaux. 
+
+#L'encapsulation : l'encapsulation permet de rassembler les données et les méthodes au sein d'une structure en cachant l'implémentation de l'objet, autrement dit en empêchant l'accès aux données. 
+
+#L'héritage : le concept d'héritage est un des concepts les plus importants de la programmation orientée objet. L'héritage est un mécanisme permettant de créer une nouvelle classe à partir d'une classe existante en gardant les même propriétés et méthodes.
+
+
+
 
 
 
