@@ -1,8 +1,8 @@
-# Projet de rattrapage du module de Programmation structurée en Java
+Projet de rattrapage du module de Programmation structurée en Java
 
 
-INTRODUCTION :
-==============
+#INTRODUCTION :
+
 
 
 
