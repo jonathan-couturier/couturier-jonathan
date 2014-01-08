@@ -3,7 +3,7 @@
 
 #INTRODUCTION :
 
-Ce rapport à pour but de valider mon module de programmation structurée en Java. En effet, suite à des lacunes rencontrées lors des examens passé en premier année nous devons rédiger un rapport afin de valider ce module qui me permettra de par la même occasion de valider ma première année du cycle ingénieur.
+Ce rapport à pour but de valider mon module de programmation structurée en Java. En effet, suite à des lacunes rencontrées lors des examens passé en premier année nous devons rédiger un rapport afin de valider ce module qui me permettra par la même occasion de valider ma première année du cycle ingénieur.
 Ce rapport devra contenir dix mille mots, à plus ou moins dix pourcents près, synthétisant mes connaissances et mes compétences mais aussi mes lacunes. Pour répondre au cahier des charges, ce rapport se composera de deux parties distinctes. 
 Dans un premier temps nous verons l'importance de mes connaissances et compétences dans mon cursus scolaire et dans 
 l'entreprise dans laqu'elle j'effectue mon apprentissage. Dans cette même partie nous retrouverons la façon dont j'ai acquis ces connaissances et ces compétences. La dernière partie concernera mes échecs et mes lacunes rencontré lors de ma première année dans le module de programmation structurée en Java.
@@ -50,7 +50,17 @@ Voici ce que cela donnerai si nous devions le coder en Java.
 
 Après avoir compris ces prinpales règles et fondamentaux de la programmation Java, j'ai pu commencer à réaliser des codes, qui était bien évidemment au début de simple code. 
 
-Comme pour tous les nouveaux codeur, que ça soit pour n'importe quel langage de programmation, mon premier code était un "Hello World". Pour cela j'avais utiliser un ``System.out.print("Hello World !")``
+Comme pour tous les nouveaux codeur, que ça soit pour n'importe quel langage de programmation, mon premier code était un "Hello World". Pour cela j'avais utiliser un ``System.out.print("Hello World !");``. Ce qui m'a permis d'afficher le fameux "Hello World" dans la console de l'IDE NetBeans. 
+
+Ensuite, j'ai commencé serieusement la programmation. J'ai effectué des opérations par exemple arithmétique, construit des tableaux à deux et trois dimensions, utilisé les structures "if ... else" et "switch" ou encore les boucles "for", "while" et "do ... while".
+Toutes ces manipulations cité ci-dessus ont été effectuées et apprises à travers des différents travaux pratiques.
+
+Evidemment comme pour toutes les matières enseignées, afin de rencontrer le moins de lacunes possible, le travail à la maison est vivement conseillé. Un des avantages du Java est qu'il y a de nombreuses communautés autour de celui-ci. En effet, il est très facile de trouver des cours ou/et exercices sur le net par exemple. Ce qui m'a permis d'approfondir mes connaissances et mes compétences. 
+
+Afin de mettre en pratique ce que nous avions appris, nous devions réaliser un projet de fin d'année. Ce projet consistait à réalliser le jeu Stream. 
+
+
+
 
 
 
