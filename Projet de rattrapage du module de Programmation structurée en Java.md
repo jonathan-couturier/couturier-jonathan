@@ -15,9 +15,12 @@ l'entreprise dans laqu'elle j'effectue mon apprentissage. Dans cette même parti
 Mon parcours choisi à l'ISEP est les Systèmes embarqués, par conséquence la programmation en Java est importante et autant plus indispensable pour la réussite de mon diplome d'ingénieur. Cependant, à PSA Peugeot Citroen, l'entreprise où j'effectue mon apprentissage, le Java n'occupe pas une grande place dans mon service. C'est pour cela que pour la suite du rapport je ne parlerai pas l'importance que peu avoir la programmation en Java au sein de mon entreprise. Cette partie sera donc focalisé sur le Java vue à travers mon cursus scolaire. 
 
 Le module de programmation structurée en Java suivi en première année à l'ISEP était le premier dans mon cursus scolaire. A vrai dire, la programmation orientée objet dans sa globalité était nouveau. Mais grace aux cours et aux nombreux travaux pratiques j'ai pu acquerir rapidement des bases dans nouveau ce langage. J'ai compris de plus que ce langage portait une grande importance dans le monde de l'informatique. 
-Comme expliquer précedemment, avant d'apprendre le Java j'ai du comprendre le principe de la programmation orientée objet. J'ai donc appris ce qu'était un objet et une classe. Un objet est une structure de données qui permet de gérer des données, de les classer, et de les stocker sous une certaine forme. Autrement dit un objet est une chose caractérisée par un ensemble de variables appellées attributs. Une classe c'est le modèle de quelque chose que nous voulons construire, elle représente un ensemble d'objets qui partagent une structure commune. Afin de mieux comprendre ces définitions prenons l'exemple du monde automobile :
+Comme expliquer précedemment, avant d'apprendre le Java j'ai du comprendre le principe de la programmation orientée objet. J'ai donc appris ce qu'était un objet et une classe. Un objet est une structure de données qui permet de gérer des données, de les classer, et de les stocker sous une certaine forme. Autrement dit un objet est une chose caractérisée par un ensemble de variables appellées attributs. Une classe c'est le modèle de quelque chose que nous voulons construire, elle représente un ensemble d'objets qui partagent une structure commune. Les classes sont nommées selon la méthode camelCase mais commencent par une majuscule.
+Afin de mieux comprendre ces définitions prenons l'exemple du monde automobile :
     la classe Voiture servira à spécifier que tous les objets voiture ont une marque, une puissance, une année ...
     
+Exemple : 
+
 Voici ce que cela donnerai si nous devions le coder en Java.
 ```sh
                   class Voiture {
@@ -33,7 +36,21 @@ N'oublions pas de plus que la programmation orientée est dirigée par trois fon
 
 **L'héritage :** le concept d'héritage est un des concepts les plus importants de la programmation orientée objet. L'héritage est un mécanisme permettant de créer une nouvelle classe à partir d'une classe existante en gardant les même propriétés et méthodes.
 
+Exemple : 
 
+Voici ce que cela donnerai si nous devions le coder en Java.
+```sh 
+                class Animal extends Object {
+	                   // Corps de la classe 
+                }
+``` 
+
+**Le polymorphisme : ** le polymophisme est une technique particulière d'héritage. Elle consiste, lorsqu'on hérite d'une classe, à redéfinir l'une des méthodes pour la spécialiser.
+
+
+Après avoir compris ces prinpales règles et fondamentaux de la programmation Java, j'ai pu commencer à réaliser des codes, qui était bien évidemment au début de simple code. 
+
+Comme pour tous les nouveaux codeur, que ça soit pour n'importe quel langage de programmation, mon premier code était un "Hello World". Pour cela j'avais utiliser un ``System.out.print("Hello World !")``
 
 
 
