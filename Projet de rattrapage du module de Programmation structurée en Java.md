@@ -60,6 +60,10 @@ Evidemment comme pour toutes les matières enseignées, afin de rencontrer le mo
 Afin de mettre en pratique ce que nous avions appris, nous devions réaliser un projet de fin d'année. Ce projet consistait à réalliser le jeu Stream. 
 
 
+Systemes embarqués = important en electronique 
+
+résumé de mes connaissances et compétences 
+
 
 
 
