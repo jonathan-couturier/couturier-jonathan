@@ -57,25 +57,12 @@ Toutes ces manipulations cité ci-dessus ont été effectuées et apprises à tr
 
 Evidemment comme pour toutes les matières enseignées, afin de rencontrer le moins de lacunes possible, le travail à la maison est vivement conseillé. Un des avantages du Java est qu'il y a de nombreuses communautés autour de celui-ci. En effet, il est très facile de trouver des cours ou/et exercices sur le net par exemple. Ce qui m'a permis d'approfondir mes connaissances et mes compétences. 
 
-Afin de mettre en pratique ce que nous avions appris, nous devions réaliser un projet de fin d'année. Ce projet consistait à réalliser le jeu Stream. 
+Afin de mettre en pratique ce que nous avions appris, nous devions réaliser un projet de fin d'année. Ce projet consistait à réalliser le jeu Stream. Ce projet m'a été bénéfique car j'ai pu mettre en pratique ce dont j'avais appris tout au long du module de programmation structurée et par la même occasion à apprendre à créer des interfaces graphique. Pour réaliser ce projet, j'ai dù utiliser par exemple la classe scanner, qui à permis une saisie du pseudomine du joueur. De plus, les conditions telle que la structure if...else, les boucles ou encore les tableaux ont été nécessaire pour la conception du jeu. Bien evidemment l'héritage ou encore l'encapsulation ont été aussi important pour le bon fonctionnement de Stream.
+Pour l'interface graphique j'ai utlisé essentiellement les packages javax.swing et java.awt présents d'office dans Java. J'ai pu ainsi comprendre le fonctionnement de base des IHM et appris qu'en réalité, une fenêtre n'est qu'une multitude de composants posés les uns sur les autres et que chacun possède un rôle qui lui est propre.
 
-
-
-
-A l'heure actuelle, le Java n'a pas grande importance dans les systèmes embarqués. En effet, le C est le langage dominant dans ce domaine. Mais d'ici quelques années ces systèmes seront programmés en Java. Ce changement de langage dans les applications embarqués est du que le Java n'a pas premièrement des problèmes de portabilités. Un programme codé en Java pourra etre éxécuté dans plusieurs applications. Un autre avantage du Java par rapport au langage C est qu'il ne possède pas les convénients de la gestion de mémoire par conséquent ceux des pointeurs qu'on retrouve dans le langage C. Malgrès une forte domination du C dans le monde des applications embarquées actuellement, nous pouvons retrouver des applications coder en Java dans des systèmes complexes tel que nous pouvons retrouver dans l'automobiles. Mais cela n'ai pas encore générique. Les systèmes où nous retrouvons du Java sont généralement dù à une préférence du constructeur et non à des contraires de langage. Mais comme je l'expliquais précédemment, dans un futur proche les systèmes seront en Java pour des raisons technologique. 
+A l'heure actuelle, le Java n'a pas grande "importance" dans les systèmes embarqués. En effet, le C est le langage informatique dominant dans ce domaine. Mais d'ici quelques années ces systèmes seront programmés en Java. Ce changement de langage dans les applications embarqués est du que le Java n'a pas premièrement des problèmes de portabilités. Un programme codé en Java pourra etre éxécuté dans plusieurs applications. Un autre avantage du Java par rapport au langage C est qu'il ne possède pas les convénients de la gestion de mémoire par conséquent ceux des pointeurs qu'on retrouve dans le langage C. Malgrès une forte domination du C dans le monde des applications embarquées actuellement, nous pouvons retrouver des applications coder en Java dans des systèmes complexes tel que nous pouvons retrouver dans l'automobiles. Mais cela n'ai pas encore générique. Les systèmes où nous retrouvons du Java sont généralement dù à une préférence du constructeur et non à des contraires de langage. Mais comme je l'expliquais précédemment, dans un futur proche les systèmes seront en Java pour des raisons technologique. 
 De ce fait, étant un futur ingénieur dans les systèmes embarqués le Java prend une grande importance dans mon cursus scolaire.
-Je me permet de citer la marque "Samsung" car les applications smartphone de cette marque sont coder en Java. Samsung étant une marque mondialement nous montre que le langage Java est utile et important.
-
-
-
-
-
-
-Aujourd’hui, le langage Java combine à la fois la puissance de la programmation objet et la programmation concurrente. Ces caractéristiques en font un candidat de choix pour la programmation de systèmes embarqués et des systèmes temps réel. Ainsi le langage Java apparait couramment pour le développement d’applications mobiles/embarquées.
-
-
-Avantage du Java par rapport au autre langage : Le langage Java hérite de la puissance de C++, sans ses inconvénients (complexité, pointeurs et références, gestion de la mémoire). Il intègre de puissants concepts : applets, gestion des threads, distribution…, qui en font un langage de développement incontournable, adapté à de très nombreux contextes.
-
+Je me permet de citer la marque "Samsung" car les applications smartphone de cette marque sont coder en Java. Samsung étant une marque mondialement nous montre que le langage Java est utile et important
 
 
 #Analyse des mes échecs et de mes lacunes en première année en Java :
