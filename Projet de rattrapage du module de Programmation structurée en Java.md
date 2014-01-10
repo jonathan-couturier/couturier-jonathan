@@ -39,8 +39,6 @@ Rappelons de plus que la programmation orientée est dirigée par trois fondamen
 
 **L'héritage :** le concept d'héritage est un des concepts les plus importants de la programmation orientée objet. L'héritage est un mécanisme permettant de créer une nouvelle classe à partir d'une classe existante en gardant les même propriétés et méthodes.
 
-**Le polymorphisme :** il s’agit d’une technique particulière d'héritage. Elle consiste, lorsqu'on hérite d'une classe, à redéfinir l'une des méthodes pour la spécialiser.
-
 Exemple 2: 
 
 Voici ce que cela donnerai si nous devions le coder en Java.
@@ -49,6 +47,9 @@ Voici ce que cela donnerai si nous devions le coder en Java.
 	                   // Corps de la classe 
                 }
 ``` 
+
+**Le polymorphisme :** il s’agit d’une technique particulière d'héritage. Elle consiste, lorsqu'on hérite d'une classe, à redéfinir l'une des méthodes pour la spécialiser.
+
 
 Après avoir compris les règles et fondamentaux principaux de la programmation Java, j'ai pu dans un deuxième temps passer à la réalisation des codes. Il s’agissait au départ d’un code simple. 
 Comme c’est fréquemment le cas de tout nouveau codeur et ce peu importe le langage de programmation, le premier code réalisé a été un "Hello World". Pour se faire, j'ai utilisé un ``System.out.print("Hello World !");``. Cela m'a permis d'afficher le fameux "Hello World" dans la console de l'IDE NetBeans. 
@@ -76,7 +77,7 @@ J'ai aussi découvert les avantages que pouvait offir le Java par rapport au lan
 J'ai compris de plus que ce langage portait une grande importance dans le monde de l'informatique.
 
 
-
+  **b- Le Java en entreprise.**
 
 
 
