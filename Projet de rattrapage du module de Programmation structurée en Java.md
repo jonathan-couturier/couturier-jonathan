@@ -81,7 +81,7 @@ J'ai compris de plus que ce langage portait une grande importance dans le monde 
 
 
 Au sein de Psa Peugeot Citroen, l'entreprise dans laquelle j'effectue mon apprentissage le Java n'est pas utilisé. En effet, étant dans un service d'innovation sonore le langage informatique principalement utilisé pour nos applications est le C. Ce choix est dù aux compatibilités des systèmes déja présent dans les voitures de serie d'aujourd'hui. 
-Cependant comme expliqué précedemment,nous pouvons retrouver des applications codé en Java. En effet, dans d'autre service de recherche de PSA Peugeot Citroen, par exemple dans le service de conception des IHMs, nous pouvons y retrouver du Java. Ces IHMs codé en Java sont principalement les tablettes tactille que nous retrouvons sur les nouvelles Peugeot.
+Cependant comme expliqué précedemment,nous pouvons retrouver des applications codé en Java. En effet, dans d'autre service de recherche de PSA Peugeot Citroen, par exemple dans le service de conception des IHMs, nous pouvons y retrouver du Java. Ces IHMs codé en Java sont principalement les tablettes tactile que nous retrouvons sur les nouvelles Peugeot.
 Avec l'avancé du Java dans les applications embarquées je pense que dans un futur proche, les systèmes sonore seront aussi développé en Java. 
 De ce fait, il autant plus important que les dificultés rencontré en première année soit surmonté. Une analyse de ces dificultés fera l'objet de partie suivante.
 
