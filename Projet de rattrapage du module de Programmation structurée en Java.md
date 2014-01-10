@@ -92,6 +92,12 @@ Dans cette partie nous allons voir les lacunes et les échecs rencontrer durant 
 
 La première difficulté rencontré dans ce module a été de comprendre le principe du langage orienté objet avec tout ce qui le constitu (classes, constructeurs ...). Au début, ces notions étaient abstraites et difficiles à comprendre. En effet, étant habituer à programmer en C sur microcontroleur, je confondais les deux langages lors des travaux pratique et des devoirs sur table.
 
+La deuxième difficulté à été, lors du projet du jeu Stream, de porgrammer l'interface graphique ainsi que le comptage es points du jeu. 
+Pour l'interface du jeu l'utilisation des packages javax.swing et java.awt ont été difficile pour ma part difficile. La conception d'une fenetre une multitude de composants, tel que l'objet JPanel, est nécessaire. L'emboitage de ces composants ne m'ont pas été intuitif.
+
+Le cahier des charges de la conception du jeu Stream tenait en compte du comptage des points à la fin la partie. Ce qui rendait le comptage des points difficiles à programmer, était de compter dans un sens de la grille puis dans un autre et de trouver un algorithme fonctionnant sur n'importe quel grille, de la simple grille à la grille la plus complexe.
+
+
 
 
 #CONCLUSION :
