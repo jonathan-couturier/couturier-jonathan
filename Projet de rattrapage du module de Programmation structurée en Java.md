@@ -66,7 +66,7 @@ Je me permet de citer la marque "Samsung" car les applications smartphone de cet
 
 Durant ce module de programmation structurée suivi en première année j'ai pu découvrir ce qu'était un langage informatique orienté objet. J'ai donc créé des classes et ainsi manipuler des objets. Sans oublier les niveaux d'accès pour les variables d'instances (données membres) et les méthodes : 
 
-	- Public ->  un élément public est accessible de partout et sans aucune restriction. Certaines classes (comme la 		     classe principale main) doivent obligatoirement être déclarées publiques (pour pouvoir exécuter 				     l'application...).
+        - Public ->  un élément public est accessible de partout et sans aucune restriction. Certaines classes (comme la 		     classe principale main) doivent obligatoirement être déclarées publiques (pour pouvoir exécuter 				     l'application...).
 	
 	- Protected ->  un élément protected (protégé) est accessible uniquement aux classes d'un package et à ses 				classes filles.
 	
