@@ -96,7 +96,7 @@ La deuxième difficulté a été rencontrée lors de la réalisation du projet p
 Le cahier des charges de la conception du jeu Stream tenait compte du comptage des points à la fin la partie. Ce qui rendait le comptage des points complexes à programmer, était de compter dans un sens de la grille puis dans un autre et de trouver un algorithme fonctionnant sur n'importe quelle grille, de la simple grille à la grille la plus complexe.
 Hormis encore des difficultés à programmer des algorithmes complexes, comme par exemple l'algorithme de colonies de fourmis qui aurait pu etre utlisé pour le comptage des points du jeu Stream, mes lacunes sur les interfaces graphiques ont netement diminué. En effet, les travaux pratique suivis en deuxième année en conception et programmation orientées objet m'ont montré qu'effectivement je ne rencontrais plus de difficulté lors de la conception d'interface graphique.
 
-Et ceci c'est généralisé. Effectivement, les lacunes et les difficultés rencontrées lors de la première année en Java ont été sur la quasi totalité surpassé. 
+Et ceci c'est généralisé. Effectivement, les lacunes et les difficultés rencontrées lors de la première année en Java ont été sur la quasi-totalité surpassée. 
 
 
 
