@@ -79,7 +79,7 @@ Cependant au cours de ce module j'ai été confronté à des lacunes et rencontr
 #Analyse des mes échecs et de mes lacunes en première année en Java :
 
 Dans cette partie nous allons voir les lacunes et les échecs rencontrer durant cette première année dans le module de programmation structurée en Java. 
-Lors des devoirs sur table 
+Lors des devoirs sur table j'ai rencontré de grande difficulté à (la je dois dire que coder sur feuille est destabilisant)
 
 #CONCLUSION :
 
