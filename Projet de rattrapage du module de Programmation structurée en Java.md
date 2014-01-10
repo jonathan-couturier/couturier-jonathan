@@ -80,22 +80,23 @@ J'ai compris de plus que ce langage portait une grande importance dans le monde 
   **b- Le Java en entreprise.**
 
 
-Au sein de Psa Peugeot Citroen, l'entreprise dans laquelle j'effectue mon apprentissage le Java n'est pas utilisé. En effet, étant dans un service d'innovation sonore le langage informatique principalement utilisé pour nos applications est le C. Ce choix est dù aux compatibilités des systèmes déja présent dans les voitures de serie d'aujourd'hui. 
-Cependant comme expliqué précedemment,nous pouvons retrouver des applications codé en Java. En effet, dans d'autre service de recherche de PSA Peugeot Citroen, par exemple dans le service de conception des IHMs, nous pouvons y retrouver du Java. Ces IHMs codé en Java sont principalement les tablettes tactile que nous retrouvons sur les nouvelles Peugeot.
-Avec l'avancé du Java dans les applications embarquées je pense que dans un futur proche, les systèmes sonore seront aussi développé en Java. 
-De ce fait, il autant plus important que les dificultés rencontré en première année soit surmonté. Une analyse de ces dificultés fera l'objet de partie suivante.
+Au sein de Psa Peugeot Citroen, l'entreprise dans laquelle j'effectue mon apprentissage le Java n'est pas utilisé. En effet, étant dans un service d'innovation sonore le langage informatique principalement utilisé pour nos applications est le C. Ce choix est dù aux compatibilités des systèmes déja présent dans les voitures de serie d'aujourd'hui.
+
+Cependant, d'autres services de recherche de PSA Peugeot Citroen tel que le service de conception des IHMs utilise le langage Java. Ces IHMs codés en Java sont principalement les tablettes tactiles que l’on retrouve sur les nouvelles Peugeot. Avec l'avancée du Java dans les applications embarquées, il est possible de supposer que les futurs systèmes sonores seront aussi développés en Java. De ce fait, il d’autant plus important que les difficultés rencontré en première année soient surmontées. 
+Le chapitre qui suit à pour objectif d’expliciter les difficultés rencontrées lors de l’apprentissage de ce langage informatique.
 
 
-#Analyse des mes échecs et de mes lacunes en première année en Java :
 
-Dans cette partie nous allons voir les lacunes et les échecs rencontrer durant cette première année dans le module de programmation structurée en Java.
+#Analyse des difficultés et lacunes en première année en Java :
 
-La première difficulté rencontré dans ce module a été de comprendre le principe du langage orienté objet avec tout ce qui le constitu (classes, constructeurs ...). Au début, ces notions étaient abstraites et difficiles à comprendre. En effet, étant habituer à programmer en C sur microcontroleur, je confondais les deux langages lors des travaux pratique et des devoirs sur table.
+La première difficulté rencontrée dans ce module a été de comprendre le principe du langage orienté objet avec tout ce qui le constitue (classes, constructeurs ...). Au début, ces notions étaient abstraites et difficiles à comprendre. En effet, étant habitué à programmer en C sur microcontroleur, je confondais les deux langages lors des travaux pratiques et des devoirs sur table. 
+Mais ce problème a été résolu relativement rapidement par diverse moyen mnémotechnique.
 
-La deuxième difficulté à été, lors du projet du jeu Stream, de porgrammer l'interface graphique ainsi que le comptage es points du jeu. 
-Pour l'interface du jeu l'utilisation des packages javax.swing et java.awt ont été difficile pour ma part difficile. La conception d'une fenetre une multitude de composants, tel que l'objet JPanel, est nécessaire. L'emboitage de ces composants ne m'ont pas été intuitif.
+La deuxième difficulté a été rencontrée lors de la réalisation du projet pour le jeu Stream. Il s’agissait de programmer l'interface graphique ainsi que le comptage des points du jeu. Pour l'interface du jeu, l'utilisation des packages javax.swing et java.awt ont été difficiles. Par exemple pour la conception d'une fenêtre d’une multitude de composants, tel que l'objet JPanel, est nécessaire. Or, l'emboitage de ces composants ne m'ont pas été intuitif.
+Le cahier des charges de la conception du jeu Stream tenait compte du comptage des points à la fin la partie. Ce qui rendait le comptage des points complexes à programmer, était de compter dans un sens de la grille puis dans un autre et de trouver un algorithme fonctionnant sur n'importe quelle grille, de la simple grille à la grille la plus complexe.
+Hormis encore des difficultés à programmer des algorithmes complexes, comme par exemple l'algorithme de colonies de fourmis qui aurait pu etre utlisé pour le comptage des points du jeu Stream, mes lacunes sur les interfaces graphiques ont netement diminué. En effet, les travaux pratique suivis en deuxième année en conception et programmation orientées objet m'ont montré qu'effectivement je ne rencontrais plus de difficulté lors de la conception d'interface graphique.
 
-Le cahier des charges de la conception du jeu Stream tenait en compte du comptage des points à la fin la partie. Ce qui rendait le comptage des points difficiles à programmer, était de compter dans un sens de la grille puis dans un autre et de trouver un algorithme fonctionnant sur n'importe quel grille, de la simple grille à la grille la plus complexe.
+Et ceci c'est généralisé. Effectivement, les lacunes et les difficultés rencontrées lors de la première année en Java ont été sur la quasi totalité surpassé. 
 
 
 
