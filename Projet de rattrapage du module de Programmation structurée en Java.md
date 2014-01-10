@@ -107,6 +107,7 @@ Et ceci c'est généralisé. Effectivement, les lacunes et les difficultés renc
 #CONCLUSION :
 
 Durant la première année en programmation structurée en Java j'ai rencontré des difficultés à programmer dans ce langage. Ce qui m'a pénalisé et par conséquence j'ai dû repassé les examens de Java. Connaissant l'importance du langage Java dans le cursus scolaire dans lequel je suis (Systèmes embarquées) et probablement dans mon/mes métier(s) futur, je me suis résolu à dépasser toutes mes lacunes et difficultés.
+
 A l'heure actuel, la majorité des difficultés rencontré en première année ont été surmonté ce qui m'a permis de ne pas commencer la deuxième année dans le module conception et programmation orientées objet avec du retard. 
 A travers ce rapport j'ai pu ainsi faire l'état de mes connaissances actuelles en programmation Java et énumérer ainsi les lacunes rencontrées et surmontées, comme par exemple avec les interfaces graphique. 
 La programmation orientée objet et la notion d'objet ne me pose plus de problèmes. Et la création de nouvelle classe est devenu "naturel" lors de la conception et programmation de quelconques projets en Java.
