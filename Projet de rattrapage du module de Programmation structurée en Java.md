@@ -80,6 +80,7 @@ J'ai compris de plus que ce langage portait une grande importance dans le monde 
   **b- Le Java en entreprise.**
 
 
+Au sein de Psa Peugeot Citroen, l'entreprise dans laquelle j'effectue mon apprentissage le Java n'est pas utilisé. En effet, étant dans un service d'innovation sonore le langage informatique principalement utilisé pour nos applications est le C. Ce choix est dù aux compatibilités des systèmes déja présent dans les voitures de serie d'aujourd'hui. 
 
 
 #Analyse des mes échecs et de mes lacunes en première année en Java :
