@@ -64,7 +64,15 @@ A l'heure actuelle, le Java n'a pas grande "importance" dans les systèmes embar
 De ce fait, étant un futur ingénieur dans les systèmes embarqués le Java prend une grande importance dans mon cursus scolaire.
 Je me permet de citer la marque "Samsung" car les applications smartphone de cette marque sont coder en Java. Samsung étant une marque mondialement nous montre que le langage Java est utile et important.
 
-Durant ce module de programmation structurée suivi en première année j'ai pu découvrir ce qu'était un langage informatique orienté objet. J'ai aussi découvert les avantages que pouvait offir le Java par rapport au langage C++ et au langage C. 
+Durant ce module de programmation structurée suivi en première année j'ai pu découvrir ce qu'était un langage informatique orienté objet. J'ai donc créé des classes et ainsi manipuler des objets. Sans oublier les niveaux d'accès pour les variables d'instances (données membres) et les méthodes : 
+
+	- Public ->  un élément public est accessible de partout et sans aucune restriction. Certaines classes (comme la 		     classe principale main) doivent obligatoirement être déclarées publiques (pour pouvoir exécuter 				     l'application...).
+	
+	- Protected ->  un élément protected (protégé) est accessible uniquement aux classes d'un package et à ses 				classes filles.
+	
+	- Private -> un élément private (privé) est accessible uniquement au sein de la classe dans laquelle il est 			     déclaré. Ces éléments ne peuvent être manipulés qu'à l'aide de méthode spécifiques appelés 			     accesseur et mutateur.
+	
+J'ai aussi découvert les avantages que pouvait offir le Java par rapport au langage C++ et au langage C. 
 Cependant au cours de ce module j'ai été confronté à des lacunes et rencontré des dificultés lors de la conception de certaines applications. Dans la partie qui va suivre je vais expliquer quels ont été mes dificultés et comment j'ai essayé à les surmonter.
 
 
