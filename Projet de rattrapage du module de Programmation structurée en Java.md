@@ -88,13 +88,11 @@ De ce fait, il autant plus important que les dificultés rencontré en première
 
 #Analyse des mes échecs et de mes lacunes en première année en Java :
 
-Dans cette partie nous allons voir les lacunes et les échecs rencontrer durant cette première année dans le module de programmation structurée en Java. 
-Lors des devoirs sur table j'ai rencontré de grande difficulté à (la je dois dire que coder sur feuille est destabilisant)
+Dans cette partie nous allons voir les lacunes et les échecs rencontrer durant cette première année dans le module de programmation structurée en Java.
 
-- langage orienté objet 
-- coder sur papier
-- des applets ou du graphique 
-- classe et contructeurs 
+La première difficulté rencontré dans ce module a été de comprendre le principe du langage orienté objet avec tout ce qui le constitu (classes, constructeurs ...). Au début, ces notions étaient abstraites et difficiles à comprendre. En effet, étant habituer à programmer en C sur microcontroleur, je confondais les deux langages lors des travaux pratique et des devoirs sur table.
+
+
 
 #CONCLUSION :
 
