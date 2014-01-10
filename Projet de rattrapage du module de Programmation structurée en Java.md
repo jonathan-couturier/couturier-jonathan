@@ -14,7 +14,7 @@ Le second chapitre sera, quant à lui, consacré aux difficultés rencontrées l
 
 #Le Java dans mon cursus scolaire et en entreprise :
 
-     **1-	Le Java au sein du cursus scolaire.**
+ **a- Le Java au sein du cursus scolaire.**
 
 Mon parcours choisi à l'ISEP est les Systèmes embarqués, par conséquence la programmation en Java est importante et autant plus indispensable pour la réussite de mon diplome d'ingénieur. Cependant, à PSA Peugeot Citroen, l'entreprise où j'effectue mon apprentissage, le Java n'occupe pas une grande place dans mon service. C'est pour cela que pour la suite du rapport je ne parlerai pas l'importance que peu avoir la programmation en Java au sein de mon entreprise. Cette partie sera donc focalisé sur le Java vue à travers mon cursus scolaire. 
 
