@@ -79,8 +79,6 @@ Durant ce module de programmation structurée suivi en première année j'ai pu 
 	
 J'ai aussi découvert les avantages que pouvait offir le Java par rapport au langage C++ et au langage C. Cependant au cours de ce module j'ai été confronté à des lacunes et rencontré des dificultés lors de la conception de certaines applications. Dans la partie qui va suivre je vais expliquer quels ont été mes dificultés et comment j'ai essayé à les surmonter.
 
-J'ai compris de plus que ce langage portait une grande importance dans le monde de l'informatique.
-
 
   **b- Le Java en entreprise.**
 
