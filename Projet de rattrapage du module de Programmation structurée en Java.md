@@ -3,14 +3,18 @@
 
 #INTRODUCTION :
 
-Ce rapport à pour but de valider mon module de programmation structurée en Java. En effet, suite à des lacunes rencontrées lors des examens passé en premier année nous devons rédiger un rapport afin de valider ce module qui me permettra par la même occasion de valider ma première année du cycle ingénieur.
-Ce rapport devra contenir dix mille mots, à plus ou moins dix pourcents près, synthétisant mes connaissances et mes compétences mais aussi mes lacunes. Pour répondre au cahier des charges, ce rapport se composera de deux parties distinctes. 
-Dans un premier temps nous verons l'importance de mes connaissances et compétences dans mon cursus scolaire et dans 
-l'entreprise dans laqu'elle j'effectue mon apprentissage. Dans cette même partie nous retrouverons la façon dont j'ai acquis ces connaissances et ces compétences. La dernière partie concernera mes échecs et mes lacunes rencontré lors de ma première année dans le module de programmation structurée en Java.
+Le rapport qui suit a pour objectif de valider le module de programmation structurée en Java. 
+En effet, les lacunes et difficultés rencontrées au cours de la première année d’étude n’ont pas permis la validation de ce module, cette dernière étant nécessaire à la validation de la première année d’étude du cycle ingénieur.
+Selon la consigne ayant été donnée, ce devoir devra comporter, avec une marge de dix pourcents, environ dix mille mots et se devra d’être une synthèse des connaissances et compétences acquises lors de cette formation. Ce rapport présentera également les difficultés que j’ai rencontrées ainsi que mes lacunes en la matière.
+
+Afin de répondre au cahier des charges imposé, le rapport suivant sera composé de deux chapitres. Le premier exposera l’utilité des connaissances et compétences acquises lors de cette formation, à la fois dans mon cursus scolaire, mais aussi dans le travail que j’effectue en entreprise dans le cadre de ma formation en apprentissage. Il s’agira également d’expliquer le processus d’acquisition de ces connaissances et compétences.
+Le second chapitre sera, quant à lui, consacré aux difficultés rencontrées lors de la première année de formation dans le module de programmation structurée en Java et tentera d’analyser  les lacunes dans ce domaine.
 
 
 
 #Le Java dans mon cursus scolaire et en entreprise :
+
+     **1-	Le Java au sein du cursus scolaire.**
 
 Mon parcours choisi à l'ISEP est les Systèmes embarqués, par conséquence la programmation en Java est importante et autant plus indispensable pour la réussite de mon diplome d'ingénieur. Cependant, à PSA Peugeot Citroen, l'entreprise où j'effectue mon apprentissage, le Java n'occupe pas une grande place dans mon service. C'est pour cela que pour la suite du rapport je ne parlerai pas l'importance que peu avoir la programmation en Java au sein de mon entreprise. Cette partie sera donc focalisé sur le Java vue à travers mon cursus scolaire. 
 
