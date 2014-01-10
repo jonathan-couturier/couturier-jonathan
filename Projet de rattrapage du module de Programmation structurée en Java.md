@@ -1,4 +1,9 @@
+**COUTURIER Jonathan A2 alternant**
+
+
 **Projet de rattrapage du module de Programmation structurée en Java**
+
+
 
 
 #INTRODUCTION :
@@ -101,6 +106,9 @@ Et ceci c'est généralisé. Effectivement, les lacunes et les difficultés renc
 
 #CONCLUSION :
 
+Durant la première année en programmation structurée en Java j'ai rencontré des difficultés à programmer dans ce langage. Ce qui m'a pénalisé et par conséquence j'ai dû repasé les examens de Java. Conaissant l'importance du langage Java dans le cursus scolaire dans lequel je suis (Systèmes embarquées) et probablemnt dans mon/mes métier(s) futur, je me suis résolu à surmonter toutes mes lacunes et difficultés. A l'heure actuel, la majorité des difficultés rencontré en premiere année ont été surmonté ce qui m'a permis de ne pas commencer la deuxième année ans le module conception et programmation orientées objet avec du retard. 
+A travers ce rapport j'ai pu ainsi faire état de mes connaissances actuelle en programmation Java et énumérer les lacunes rencontrées et surmontées, comme par exemple avec les interfaces graphique. 
 
+Cependant je suis concient que ce rapport devait initialement etre constitué de dix mille mots à un pourcentage près, mais avec moins de mots j'ai pu détailler et justifier ce qui était demandé dans le cahier des charges. Rajouter des mots aurait été synonyme de répétitions et de "bla bla", qui n'est pas le but de ce rapport. 
 
 
