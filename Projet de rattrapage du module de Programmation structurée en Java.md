@@ -91,5 +91,10 @@ De ce fait, il autant plus important que les dificultés rencontré en première
 Dans cette partie nous allons voir les lacunes et les échecs rencontrer durant cette première année dans le module de programmation structurée en Java. 
 Lors des devoirs sur table j'ai rencontré de grande difficulté à (la je dois dire que coder sur feuille est destabilisant)
 
+- langage orienté objet 
+- coder sur papier
+- des applets ou du graphique 
+- classe et contructeurs 
+
 #CONCLUSION :
 
